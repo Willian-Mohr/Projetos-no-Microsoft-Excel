@@ -16,8 +16,6 @@ Objetivo:
 > horas de pesquisas, afim de, melhora o ambiente e a qualidade das atividades.
 >  Tudo começou apartir de uma ideia de realizar login automático em um sistema WEB. Além de ferramentas automatizada, tive a oputunidade de criar relatório de controle, distribuição de atividades.
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
-
 ### Atenção!
 
 * Para ter acesso ao código fonte e necessário te uma senha, sendo ela "Ctba2013"
